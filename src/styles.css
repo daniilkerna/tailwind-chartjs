@@ -1,0 +1,11 @@
+body {
+  background-color: #f7fafc;
+}
+
+table td {
+  padding: 0.5rem;
+}
+
+table tr:not(:last-child) {
+  border-bottom: 1px solid #c2c9d1;
+}
